@@ -1,0 +1,20 @@
+    div {
+        margin: auto;
+        position: center;
+        width: 500px;
+        background-color: yellow;
+    }
+    
+    li {
+        font-size: 25px;
+        color: red;
+    }
+    
+    img {
+        display: block;
+        margin: auto;
+    }
+    
+    a:visited {
+        color: green;
+    }
